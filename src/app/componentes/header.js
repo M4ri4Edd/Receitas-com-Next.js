@@ -5,8 +5,8 @@ export default function Header(){
         <header className={styles.header}>
             <h1>Meu Livro de Receitas</h1>
             <nav>
-                <a href="/home">Home</a>
-                <a href="/receitas">Receitas</a>
+                <link href="/home">Home</link>
+                <link href="/receitas">Receitas</link>
             </nav>      
         </header>
     );
