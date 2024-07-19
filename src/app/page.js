@@ -1,5 +1,6 @@
 import Header from './componentes/header';
 import Footer from './componentes/footer';
+import styles from './styles.css';
 
 const Home = () => (
   <div>
